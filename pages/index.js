@@ -44,8 +44,7 @@ export default function Home(){
                     </Button>
                     </Col>
                 </Form>
-                <br></br>
-                <p style={stylesheet.resultado}>{resultado}</p>
+                <p style={stylesheet.resultado}>Resultado:<br></br>{resultado}</p>
                 
                 
             </div> 
